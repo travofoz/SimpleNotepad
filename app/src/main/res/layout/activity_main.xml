@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:gravity="center"
-        android:marginTop="16dp">
+        android:paddingTop="16dp">
 
         <Button
             android:id="@+id/saveButton"
