@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Notepad</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="clear">Clear</string>
+    <string name="hint">Start typing your notes here...</string>
+    <string name="saved">Notes saved!</string>
+    <string name="loaded">Notes loaded!</string>
+    <string name="cleared">Notes cleared!</string>
+</resources>
